@@ -1,5 +1,5 @@
 {
-  "spider": "https://cdn.jsdelivr.net/gh/liuzzh1971/tvbox-config@main/lib/jinenge.jar",
+  "spider": "https://cdn.jsdelivr.net/gh/liuzzh1971/tvbox-config@main/lib/jinenge.jar;md5;1d7a5147033044a81f91d5f4a510f9ed",
   "wallpaper": "https://picsum.photos/1280/720",
   "sites": [
     {
@@ -370,7 +370,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "./lib/5af5fbe12a88b7c45aa1c21e6551826c.txt"
+        "json": "https://cdn.jsdelivr.net/gh/liuzzh1971/tvbox-config@main/lib/5af5fbe12a88b7c45aa1c21e6551826c.txt"
       }
     },
     {
@@ -400,38 +400,6 @@
       }
     },
     {
-      "key": "虎牙js",
-      "name": "🐯虎牙┃直播",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/虎牙.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.755
-      },
-      "timeout": 10,
-      "playerType": "2",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "斗鱼js",
-      "name": "🐟斗鱼┃直播",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/斗鱼直播.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.755
-      },
-      "timeout": 10,
-      "playerType": "2",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
       "key": "Bili",
       "name": "🅱哔哔合集┃弹幕",
       "type": 3,
@@ -444,7 +412,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "./lib/0075389dca9afadd4614e9713765ff17.txt"
+        "json": "https://cdn.jsdelivr.net/gh/liuzzh1971/tvbox-config@main/lib/0075389dca9afadd4614e9713765ff17.txt"
       }
     },
     {
@@ -460,22 +428,8 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "./lib/6496356286589c68f52c2f99c0c674c7.txt"
+        "json": "https://cdn.jsdelivr.net/gh/liuzzh1971/tvbox-config@main/lib/6496356286589c68f52c2f99c0c674c7.txt"
       }
-    },
-    {
-      "key": "dr_兔小贝",
-      "name": "📚儿童┃启蒙",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/兔小贝.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
     },
     {
       "key": "少儿教育",
@@ -490,7 +444,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "./lib/89370c8ddf36b5e1beb4d71adb921bda.txt"
+        "json": "https://cdn.jsdelivr.net/gh/liuzzh1971/tvbox-config@main/lib/89370c8ddf36b5e1beb4d71adb921bda.txt"
       }
     },
     {
@@ -506,7 +460,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "./lib/d7a21cf34ede56f5c686ecfba5fc7e3f.txt"
+        "json": "https://cdn.jsdelivr.net/gh/liuzzh1971/tvbox-config@main/lib/d7a21cf34ede56f5c686ecfba5fc7e3f.txt"
       }
     },
     {
@@ -522,7 +476,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "./lib/8f55d520f8d70056695740ef151744a7.txt"
+        "json": "https://cdn.jsdelivr.net/gh/liuzzh1971/tvbox-config@main/lib/8f55d520f8d70056695740ef151744a7.txt"
       }
     }
   ],
@@ -550,7 +504,7 @@
     {
       "name": "develop202",
       "type": 0,
-      "url": "./lib/interface.txt",
+      "url": "https://cdn.jsdelivr.net/gh/liuzzh1971/tvbox-config@main/lib/interface.txt",
       "playerType": 2,
       "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -558,19 +512,19 @@
     {
       "name": "Kimentanm",
       "type": 0,
-      "url": "./lib/iptv.m3u",
+      "url": "https://cdn.jsdelivr.net/gh/liuzzh1971/tvbox-config@main/lib/iptv.m3u",
       "playerType": 2
     },
     {
       "name": "范明明（需开启V6网络）",
       "type": 0,
-      "url": "./lib/3d75a78a0fc7ede372c03598d6d10367.m3u",
+      "url": "https://cdn.jsdelivr.net/gh/liuzzh1971/tvbox-config@main/lib/3d75a78a0fc7ede372c03598d6d10367.m3u",
       "playerType": 2
     },
     {
       "name": "虎牙一起看",
       "type": 0,
-      "url": "./lib/huyayqk.m3u",
+      "url": "https://cdn.jsdelivr.net/gh/liuzzh1971/tvbox-config@main/lib/huyayqk.m3u",
       "playerType": 2,
       "timeout": 10,
       "ua": "okHttp/Mod-1.5.0.0"
@@ -578,7 +532,7 @@
     {
       "name": "斗鱼一起看",
       "type": 0,
-      "url": "./lib/douyuyqk.m3u",
+      "url": "https://cdn.jsdelivr.net/gh/liuzzh1971/tvbox-config@main/lib/douyuyqk.m3u",
       "playerType": 2,
       "timeout": 10,
       "ua": "okHttp/Mod-1.5.0.0"
@@ -586,7 +540,7 @@
     {
       "name": "B站直播",
       "type": 0,
-      "url": "./lib/bililive.m3u",
+      "url": "https://cdn.jsdelivr.net/gh/liuzzh1971/tvbox-config@main/lib/bililive.m3u",
       "playerType": 2,
       "timeout": 10,
       "ua": "okHttp/Mod-1.5.0.0"
@@ -594,7 +548,7 @@
     {
       "name": "YY轮播",
       "type": 0,
-      "url": "./lib/yylunbo.m3u",
+      "url": "https://cdn.jsdelivr.net/gh/liuzzh1971/tvbox-config@main/lib/yylunbo.m3u",
       "playerType": 2,
       "timeout": 10,
       "ua": "okHttp/Mod-1.5.0.0"
