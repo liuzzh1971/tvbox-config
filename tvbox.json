@@ -1,6 +1,6 @@
 {
-  "spider": "./lib/jinenge.jar;md5;1d7a5147033044a81f91d5f4a510f9ed",
-  "wallpaper": "https://jinenge.us.kg/wallpaper/",
+  "spider": "https://cdn.jsdelivr.net/gh/liuzzh1971/tvbox-config@main/lib/jinenge.jar",
+  "wallpaper": "https://picsum.photos/1280/720",
   "sites": [
     {
       "key": "点我切源",
